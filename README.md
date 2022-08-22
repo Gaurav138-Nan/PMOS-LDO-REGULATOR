@@ -132,5 +132,12 @@ What this capacitance does is, at very high frequencies it shorts the R1 resisto
 
 
 The graph is shown below.
+</br>
+</br>
+
+![image](https://user-images.githubusercontent.com/75901646/186004621-2aef25a3-e543-479d-b870-5374b41c9df7.png)
+</br>
+</br>
+
 
 As observed in the above graph ,we have reduced the spikes considerably as compared to our previous designs.
