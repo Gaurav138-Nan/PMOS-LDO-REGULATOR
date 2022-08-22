@@ -18,11 +18,8 @@ So that the output remains constant with respect to changes .The error amplifier
 4.	Pass Transistor: The pass element in the LDO is responsible for transferring current from input to load and is driven by the error amplifier in the feedback loop.
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/75901646/186003614-ca6b561d-668f-4f01-b39e-1141b65357b3.png)
-</br>
-</br>
-   
-Schematic of a traditional pmos  ldo design
+
+
 </br>
 
 
