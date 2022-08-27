@@ -92,7 +92,7 @@ The below graph shows the output.
 The variation of voltage with changing current load is quite minimal but an interesting observation shows us during the step change in the current there is a spike induced at the output voltage.
 Theoretically we can explain those spikes because the error amplifier is unable to detect the change as quickly as the load current change(because of slew rate of opamp) therefore momentarily we are observing some spikes.
 
-
+**IMPROVING LOAD TRANSIENT:**
 **Attaching a Load Capacitor:**
 Now a question arises ,is it possible to improve the load transient response as observed in the above graph.
 
